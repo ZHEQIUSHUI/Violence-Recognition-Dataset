@@ -26,4 +26,4 @@ Total there are 312573 frames.
 
 
 # End
-thank you for you star
+thank you for your star
